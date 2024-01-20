@@ -15,7 +15,7 @@
 ## Usage
 
 ```bash
-pip install -r requriements.txt
+pip install -r requirements.txt
 python app.py
 ```
 
